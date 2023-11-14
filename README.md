@@ -112,30 +112,24 @@ sns.boxplot(x='Experience_Years',data=df)
 
 
 
-employeesal.csv:
-image
+#### employeesal.csv:
+![image](https://github.com/harini1006/ODD2023-DataScience-Ex-03/assets/113497405/24f16a87-4a48-4103-9c96-dcee1e8f0988)
+![image](https://github.com/harini1006/ODD2023-DataScience-Ex-03/assets/113497405/38b53918-b6d9-4ee0-b312-b90b5f0756f7)
+![image](https://github.com/harini1006/ODD2023-DataScience-Ex-03/assets/113497405/13b35002-24ad-4248-9167-b12292c29799)
+![image](https://github.com/harini1006/ODD2023-DataScience-Ex-03/assets/113497405/e258c5d1-5aa4-41b6-bb54-1118865766b2)
+![image](https://github.com/harini1006/ODD2023-DataScience-Ex-03/assets/113497405/6bf8fc3b-77b6-489f-9484-610f18250d43)
+![image](https://github.com/harini1006/ODD2023-DataScience-Ex-03/assets/113497405/075b1246-adbf-4b7b-b420-b500cc8100bc)
+![image](https://github.com/harini1006/ODD2023-DataScience-Ex-03/assets/113497405/c291bff6-aed6-4db4-870b-2b13fae7239a)
+![image](https://github.com/harini1006/ODD2023-DataScience-Ex-03/assets/113497405/326fb298-5034-4bbe-956f-0b94dde255ef)
+![image](https://github.com/harini1006/ODD2023-DataScience-Ex-03/assets/113497405/6fe02e0d-268d-4d27-b6e0-6209202bea4f)
+![image](https://github.com/harini1006/ODD2023-DataScience-Ex-03/assets/113497405/8b4bd351-d497-4c57-812e-7aefa29565fa)
+![image](https://github.com/harini1006/ODD2023-DataScience-Ex-03/assets/113497405/524cdad7-036b-43a7-88f5-7229b32cc09d)
+![image](https://github.com/harini1006/ODD2023-DataScience-Ex-03/assets/113497405/3e4ea473-1100-41a7-8db9-9a52afa1b0b2)
 
-image
 
-image
 
-image
 
-image
-
-image
-
-image
-
-image
-
-image
-
-image
-
-image
-
-RESULT:
+### RESULT:
 
 Hence the univariate analysis is verified
 
